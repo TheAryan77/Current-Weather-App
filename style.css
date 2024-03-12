@@ -93,3 +93,16 @@ body{
     margin-top: 10px;
     display: none;
 }
+.heading{
+    width: 90%;
+    max-width: 400px;
+    background: linear-gradient(135deg , #00fe55,#5b548a);
+    color: #fff;
+    margin: 100px auto 20px;
+    border-radius: 20px;
+    padding: 40px 35px;
+    text-align: center;
+    font-size: 45px;
+    font-weight: 400;
+    text-decoration: underline;
+}
